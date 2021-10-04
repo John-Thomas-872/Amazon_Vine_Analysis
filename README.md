@@ -8,16 +8,16 @@ Amazon vine porgram is a service that allows manufacturers and publishers to rec
 ## Results
 
 - How many Vine Reviews are there?
-- ![alt text](images/total_vine_Reviews.png)
+![alt text](images/total_vine_Reviews.png)
 - How many Non-Vine Reviews are there?
-- ![alt text](images/total_non_vine_Reviews.png)
+![alt text](images/total_non_vine_Reviews.png)
 - How many Vine Reviews were given 5-stars?
-- ![alt text](images/total_vine_Reviews.png)
+![alt text](images/Vine_5_star_reviews.png)
 - How many Non-Vine Reviews were given 5-stars?
-- 
+![alt text](images/non_vine_5_star_reviews.png)
 - What percentage of Vine reviews were 5-stars? 
-- 
+![alt text](images/percent_5_star_review_vine.png)
 - What percentage of Non-Vine reviews were 5-stars?
-- 
+![alt text](images/percent_5_star_review_non_vine.png)
 
 ## Summary
